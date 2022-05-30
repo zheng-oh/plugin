@@ -1,1 +1,3 @@
 # plugin
+Chrome
+Blender
